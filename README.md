@@ -1,2 +1,1 @@
-# pro-24
-this about project epic archery stage 2
+# Project_Template_24
